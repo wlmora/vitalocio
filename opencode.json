@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai",
+  "mcp": {
+    "astro-docs": {
+      "type": "remote",
+      "url": "https://astro.build",
+      "enabled": true
+    }
+  }
+}

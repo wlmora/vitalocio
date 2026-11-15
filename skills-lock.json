@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "skills": {
+    "astro-developer": {
+      "source": "withastro/astro",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/astro-developer/SKILL.md",
+      "computedHash": "d3b2e5557470705037a177bd15e0bfe3ad3a983c08e95422ba67d2d4144d602c"
+    }
+  }
+}
